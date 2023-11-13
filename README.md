@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# DSA Visualized
+## **The website is under development and the link is not accurate therefore please check back in a few days**
+![DSA Visualized Logo](https://your-website-url.com/assets/logo.png)
 
-## Getting Started
+**DSA Visualized** is a unique resource that's dedicated to helping you understand Data Structures and Algorithms (DSA) through visual implementations of the logic that occurs. We believe that visualizing complex DSA concepts can make the learning process more intuitive and enjoyable.
 
-First, run the development server:
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Demo](#demo)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Learning DSA can be challenging, but it doesn't have to be! **DSA Visualized** provides a rich collection of visualizations, interactive examples, and explanations for various DSA concepts, making it easier for you to grasp the fundamentals and master these essential skills.
+
+## Features
+
+- **Visual Implementations:** Dive into interactive visualizations that break down complex DSA concepts into easy-to-understand components.
+
+- **Comprehensive Explanations:** Access in-depth explanations that accompany each visualization, helping you understand the underlying logic.
+
+- **Search and Navigation:** Easily find the DSA topics you're interested in, thanks to our user-friendly search and navigation features.
+
+- **Responsive Design:** Enjoy a seamless learning experience on any device, be it a desktop, tablet, or smartphone.
+
+## Demo
+
+Visit our website at [https://www.dsa-visualized.com](https://www.dsa-visualized.com) to explore the interactive visualizations and gain a better understanding of DSA concepts. 
+
+## Usage
+
+You can use our website for self-study, as a supplement to your courses, or as a handy reference while preparing for coding interviews. Follow these steps to get started:
+
+1. Visit [https://www.dsa-visualized.com](https://www.dsa-visualized.com).
+
+2. Use the search bar or navigation menu to find the DSA topic you want to explore.
+
+3. Interact with the visualizations and read the accompanying explanations to enhance your understanding.
+
+4. Feel free to contribute to our project or report any issues by following the instructions in the [Contributing](#contributing) section below.
+
+## Contributing
+
+We welcome contributions from the open-source community. If you'd like to contribute to **DSA Visualized**, please follow these steps:
+
+1. Fork the repository.
+
+2. Clone your forked repository to your local machine.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+git clone https://github.com/your-username/dsa-visualized.git
