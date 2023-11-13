@@ -1,4 +1,5 @@
 
+import Layout from "@/components/Layout";
 import { Providers } from "./providers";
 
 export default function RootLayout({
@@ -10,7 +11,9 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <Providers>
-          {children}
+          <Layout>
+            {children}
+          </Layout>
         </Providers>
       </body>
     </html>
