@@ -26,7 +26,23 @@ const Home = () => {
                         fontSize={{ base: '3xl', sm: '4xl', md: '6xl' }}
                         lineHeight={'110%'}
                     >
-                        Mastering Data Structures and Algorithms{' '}
+                        <Text
+                            as={'span'}
+                            position={'relative'}
+                            _after={{
+                                content: "''",
+                                width: 'full',
+                                height: '30%',
+                                position: 'absolute',
+                                bottom: 1,
+                                left: 0,
+                                bg: 'yellow.400',
+                                zIndex: -1,
+                            }}
+                        >
+                            Mastering
+                        </Text>
+                        {' '}Data Structures and Algorithms{' '}
                         <Text as={'span'} color={'#FFD763'}>
                             simplified.
                         </Text>
